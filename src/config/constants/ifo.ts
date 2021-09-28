@@ -109,7 +109,7 @@ const ifos: Ifo[] = [
     saleAmount: '1,000,000 epic',
     raiseAmount: '$200,000',
     cakeToBurn: '$262,500',
-    projectSiteUrl: 'https://ditoswap.com/',
+    projectSiteUrl: 'https://dapp.ditoswap.com/',
     currency: 'CAKE-BNB LP',
     currencyAddress: '0xA527a61703D82139F8a06Bc30097cC9CAA2df5A6',
     tokenDecimals: 18,
