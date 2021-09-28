@@ -9,7 +9,7 @@ const farms: FarmConfig[] = [
     lpSymbol: 'DTO-BUSD LP',
     lpAddresses: {
       97: '0x78e7db15e9dd4f0fb208556c561f071ccb62c0c4',
-      56: '0x4ac44c09c61c2e61470a84eb5cf169d5c8b15521',
+      56: '0x81a9cb5e45740d8de7b4e0e094ed2b40304b3ecf',
     },
     tokenSymbol: 'DTO',
     tokenAddresses: {
@@ -25,7 +25,7 @@ const farms: FarmConfig[] = [
     lpSymbol: 'DTO-BNB LP',
     lpAddresses: {
       97: '',
-      56: '0xbe8dc0dae6036935bd8f605e936320e492036758',
+      56: '0x12f47610855c03d5cf63b198f069b5175fb2b26b',
     },
     tokenSymbol: 'DTO',
     tokenAddresses: {
@@ -41,7 +41,7 @@ const farms: FarmConfig[] = [
     lpSymbol: 'BNB-BUSD LP',
     lpAddresses: {
       97: '',
-      56: '0x1b96b92314c44b159149f7e0303511fb2fc4774f',
+      56: '0x1B96B92314C44b159149f7E0303511fB2Fc4774f',
     },
     tokenSymbol: 'BNB',
     tokenAddresses: {
